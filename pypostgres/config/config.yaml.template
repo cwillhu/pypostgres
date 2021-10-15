@@ -1,0 +1,7 @@
+database:
+  username: <db_username>
+  password: <password>
+  hostname: <hostname>
+  databasename: <database_name>
+  port: <port>
+  schema_name: <schema_name>
